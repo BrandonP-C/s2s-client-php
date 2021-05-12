@@ -1,5 +1,5 @@
 {
-    "name": "brandonp-c/s2s-client-php",
+    "name": "wildix/s2s-client-php",
     "type": "library",
     "version": "1.0.0",
     "minimum-stability": "stable",
